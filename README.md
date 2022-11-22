@@ -1,3 +1,3 @@
-# pub
+# datasets
 
-Trying to figure out how to use this thing!
+Storage space for datasets would like to make publicly available for my Jupyter Notebooks.
